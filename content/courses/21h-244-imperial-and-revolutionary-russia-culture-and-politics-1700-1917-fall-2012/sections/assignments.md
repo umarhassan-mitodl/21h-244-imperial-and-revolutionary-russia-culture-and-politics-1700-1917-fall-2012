@@ -1,8 +1,6 @@
 ---
 content_type: page
 course_id: 21h-244-imperial-and-revolutionary-russia-culture-and-politics-1700-1917-fall-2012
-hide_download: true
-hide_download_original: null
 layout: course_section
 menu:
   21h-244-imperial-and-revolutionary-russia-culture-and-politics-1700-1917-fall-2012:
